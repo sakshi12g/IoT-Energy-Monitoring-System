@@ -205,30 +205,5 @@ The code includes threshold values to filter noise:
 
 These can be adjusted based on your specific requirements.
 
-## Safety Considerations
 
-⚠️ **Warning**: This project involves mains AC voltage (220V). Take proper precautions:
 
-- Use proper insulation and enclosure
-- Test thoroughly before use
-- Ensure proper grounding
-- Use appropriate fuses and protection
-- Follow local electrical codes
-
-## Contributing
-
-Feel free to contribute to this project by:
-- Reporting bugs
-- Suggesting improvements
-- Adding new features
-- Improving documentation
-
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
-**Project Source**: [CircuitDigest - DIY Real-Time Energy Monitoring Device](https://circuitdigest.com/microcontroller-projects/diy-real-time-energy-monitoring-device-using-esp32)
-
-**Disclaimer**: This project is for educational purposes. Use at your own risk and ensure compliance with local electrical regulations.
